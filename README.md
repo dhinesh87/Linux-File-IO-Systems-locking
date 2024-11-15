@@ -1,5 +1,7 @@
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
+## Name: Dhinesh M
+## Register No: 212223040040
 # AIM:
 To Write a C program that illustrates files copying and locking
 
